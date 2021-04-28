@@ -2,7 +2,7 @@
 - 👩‍💻 I'm a Softwear Engineering  Student 
 - 👀 I’m interested in New Technologie
 - 🌱 I’m currently learning Web developpment 
-- 📫 How to reach me ?   @: Wiemgargoui2000@gmail.comor  LinkedIn : www.linkedin.com/in/wiem-gargouri-1a1a4a1ba
+- 📫 How to reach me ?   @: Wiemgargoui2000@gmail.com LinkedIn : www.linkedin.com/in/wiem-gargouri-1a1a4a1ba
 
 
 <!---
